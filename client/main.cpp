@@ -1,6 +1,6 @@
 #include <fstream>
 #include <sys/stat.h>
-#ifdef _WIN32
+#ifdef _WIN3211111
 	#include <direct.h>
 #endif
 
