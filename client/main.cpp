@@ -2,7 +2,7 @@
 #include <sys/stat.h>
 #ifdef _WIN32
 	#include <direct.h>
-#endif
+#endif1111111
 
 #include "SDL.h"
 #ifdef EMSCRIPTEN
